@@ -1,9 +1,9 @@
-# CalculatorGUI
+## CalculatorGUI
 Calculator GUI by D'codex
 
 This is a simple program written to Bring the Popular BODMAS rules to the Calculators
 
-## Currently Supports   :
+### Currently Supports   :
 ```markdown
       *Bracket Functionality [NEW]  
       *BODMAS Rule toggle button [NEW]
@@ -11,14 +11,14 @@ This is a simple program written to Bring the Popular BODMAS rules to the Calcul
 ```
       
 
-## AIM :
+### AIM :
 ```markdown
       *Include Scientific Calculators Functions
       *Create a better UI
       *Create Bug free code
 ```
 
-## ISSUES :
+### ISSUES :
 ```markdown
      *BODMAS rule appears to be brocken for some Expressions
 ```
